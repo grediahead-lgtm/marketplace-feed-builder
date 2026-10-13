@@ -1,0 +1,5 @@
+sku,name_uk,name_ru,description_uk,description_ru,price,currency,stock,photos,group,vendor,keywords_uk,param:Розмір,param:Вага|кг
+TEST-001,Лежак тестовий сірий,,Тестовий опис лежака для прикладу.,,"1 250,50",,12,https://example.com/p/1.jpg,Лежаки,Example,"лежак для собак, лежанка",M,2.5
+TEST-002,Переноска тестова,Переноска тестовая,Тестовий опис переноски.,Тестовое описание переноски.,890,UAH,yes,https://example.com/p/2.jpg | https://example.com/p/3.jpg,Переноски,Example,,,
+TEST-003,Одяг тестовий,,,,abc,,no,,,,,,
+TEST-001,Дубль артикулу,,Опис.,,100,,,,Лежаки,,,,
